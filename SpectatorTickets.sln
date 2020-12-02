@@ -1,9 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30330.147
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectatorTickets", "SpectatorTickets\SpectatorTickets.csproj", "{99EA77C4-45C9-4622-90C6-1AAA4EDFB3DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectatorTickets-2.0", "SpectatorTickets\SpectatorTickets.csproj", "{EC664EBE-17D3-4CCB-A5E5-3E1A18E11AAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{99EA77C4-45C9-4622-90C6-1AAA4EDFB3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{99EA77C4-45C9-4622-90C6-1AAA4EDFB3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{99EA77C4-45C9-4622-90C6-1AAA4EDFB3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{99EA77C4-45C9-4622-90C6-1AAA4EDFB3DA}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {06B8E646-D081-413A-B383-5A9B459CAB20}
+		{EC664EBE-17D3-4CCB-A5E5-3E1A18E11AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC664EBE-17D3-4CCB-A5E5-3E1A18E11AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC664EBE-17D3-4CCB-A5E5-3E1A18E11AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC664EBE-17D3-4CCB-A5E5-3E1A18E11AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
