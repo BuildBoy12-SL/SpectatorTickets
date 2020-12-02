@@ -27,7 +27,7 @@ namespace SpectatorTickets
         {
             while (true)
             {
-                _player.ReferenceHub.hints.Show(
+                _player.HintDisplay.Show(
                     new TextHint(
                         $"\n\n\n\n\n\n\n\n\n\n\n\n\n\n<align=right><color=blue>MTF Tickets:</color> {Respawning.RespawnTickets.Singleton.GetAvailableTickets(Respawning.SpawnableTeamType.NineTailedFox)}</align>" +
                         $"\n<align=right><color=green>Chaos Tickets:</color> {Respawning.RespawnTickets.Singleton.GetAvailableTickets(Respawning.SpawnableTeamType.ChaosInsurgency)}</align>",
