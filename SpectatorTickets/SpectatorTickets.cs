@@ -21,7 +21,8 @@
             _eventHandlers = null;
         }
 
-        public override string Name => "Build";
+        public override string Author => "Build";
         public override Version Version => new Version(1, 0, 1);
+        public override string Name => "SpectatorTickets";
     }
 }
